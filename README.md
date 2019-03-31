@@ -1,2 +1,2 @@
 # README #
-This is an update to README.
+This is my first GitHub Repository!
